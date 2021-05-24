@@ -16,3 +16,9 @@ python-rtmbot is the bot framework for building Slack bots with the Real Time Me
 The GitHub bots search results and the bots GitHub topic contain tens of thousands of example bots you take analyze to see how they are built.
 
 Errbot can work with multiple backends such as Hipchat, Discord, Slack and Telegram. It's designed to be deployed "as is" except for your credentials but the Python source code can also be customized.
+
+
+Sites being crawled thorugh this bot :
+
+spritmonitor.de/en
+applyabroad.com
