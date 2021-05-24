@@ -23,3 +23,4 @@ Sites being crawled thorugh this bot :
 https://www.spritmonitor.de/en/
 https://applyabroad.ca/
 https://www.edulix.com/
+https://www.academiacafe.com/pf/
