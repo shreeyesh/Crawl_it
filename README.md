@@ -22,3 +22,4 @@ Sites being crawled thorugh this bot :
 
 spritmonitor.de/en
 applyabroad.com
+academiacafe.com
