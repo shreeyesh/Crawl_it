@@ -21,6 +21,5 @@ Errbot can work with multiple backends such as Hipchat, Discord, Slack and Teleg
 Sites being crawled thorugh this bot :
 
 https://www.spritmonitor.de/en/
-applyabroad.com
-academiacafe.com
+https://applyabroad.ca/
 https://www.edulix.com/
